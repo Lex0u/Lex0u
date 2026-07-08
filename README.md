@@ -26,6 +26,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -46,13 +48,14 @@ Plateforme web pour une activité d'auto-entrepreneur proposant impression 3D, r
 ---
 
 ## 📦 Projets archivés
-
-- **Yumiko** — Bot Discord multi-fonctions (mini-jeux, modération, sécurité) — *125 serveurs, ~175 000 utilisateurs*
-- **DDS** — Bot Discord de modération et sécurité — *50 serveurs, ~8 000 utilisateurs*
-- **ProjectList** — Site permettant de partager des bots, serveurs et projets Discord auprès de la communauté (concept proche de Disboard, dédié aux bots et serveurs)
-- **Kiora** — Bot Discord multi-services privé style RPG avec de nombreux secrets (NodeJS, TypeScript, MongoDB) *~8 000 utilisateurs*
-- **Blazee** — Contribution sur un bot Discord multi-service — *100 serveurs, ~76 000 utilisateurs*
-- **Cristaline** — Bot Discord de Raid, contribution active au développement en tant que l'un des principaux contributeurs
+| Projet | Description | Impact |
+| --- | --- | --- |
+| **Yumiko** | Bot Discord multi-fonctions (mini-jeux, modération, sécurité) | *125 serveurs, ~175 000 utilisateurs |
+| **DDS** | Bot Discord de modération et sécurité | *50 serveurs, ~8 000 utilisateurs* |
+| **ProjectList** | Site permettant de partager des bots, serveurs et projets Discord auprès de la communauté (concept proche de Disboard, dédié aux bots et serveurs) | - |
+| **Kiora** | Bot Discord multi-services privé style RPG avec de nombreux secrets (NodeJS, TypeScript, MongoDB) | *~8 000 utilisateurs* |
+| **Blazee** | Contribution sur un bot Discord multi-service | *100 serveurs, ~76 000 utilisateurs* |
+| **Cristaline** | Bot Discord de Raid, contribution active au développement en tant que l'un des principaux contributeurs | - |
 
 ---
 
